@@ -1,4 +1,5 @@
 import ClassForm from "./Component/ClassForm"
+import FunctionForm from "./Component/functionForm"
 
 
 function App() {
@@ -6,6 +7,9 @@ function App() {
   return (
     <>
     <ClassForm/>
+    <br/>
+    <br/>
+    <FunctionForm/>
     </>
   )
 }
